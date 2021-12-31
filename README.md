@@ -4,5 +4,4 @@ This project is a very brief demo of the Apache Commons CLI framework. The appli
 
 The program can be run using Maven:
 
-`mvn compile exec:java -Dexec.mainClass="uk.co.downthewire.example.Main" \
-  -Dexec.args="-a 'Example task' --date '12/12/21' -t '10am'"`
+`mvn compile exec:java -Dexec.mainClass="uk.co.downthewire.example.Main" -Dexec.args="-a 'Example task' --date '12/12/21' -t '10am'"`
